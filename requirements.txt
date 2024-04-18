@@ -2,7 +2,6 @@ streamlit
 pandas
 urlextract
 wordcloud
-collections
 streamlit
 matplotlib
 seaborn
