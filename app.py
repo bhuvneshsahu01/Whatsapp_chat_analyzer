@@ -1,4 +1,3 @@
-install requirements.txt
 import streamlit as st
 import helper as hp
 import matplotlib.pyplot as plt
